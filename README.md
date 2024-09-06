@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sümeyye Sude!🫧</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Scientist and Mobile Developer </h3>
 
 - 📊 I’m currently working on **Data Science projects!**
 
