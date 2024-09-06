@@ -3,7 +3,7 @@
 
 - 📊 I’m currently working on **Data Science projects!**
 
-- 📚 I’m currently learning **TensorFlow**
+- 📚 I’m currently learning **TensorFlow and Swift**
 
 - 👩🏼‍💻 I’m looking for **a job!**
 
