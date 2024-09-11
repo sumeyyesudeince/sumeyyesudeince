@@ -7,7 +7,7 @@
 
 - 👩🏼‍💻 I’m looking for **a job!**
 
-- 📝 I regularly write articles on [medium.com/@sumeyyesudeince](medium.com/@sumeyyesudeince)
+- 📝 I regularly write articles on [[medium.com/@sumeyyesudeince](https://medium.com/@sumeyyesudeince)]
 
 - 📫 How to reach me **sumeyyesince13@gmail.com**
 
